@@ -22,18 +22,18 @@ class ViewController: UIViewController {
     
     
     
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    
+        
         // ラベルに遷移元から受け取った情報を表示
         nameLabel.text = receiveName
         syumiLabel.text = receiveSyumi
         
     }
     
-
-
+    
+    
 }
 
