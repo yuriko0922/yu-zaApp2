@@ -269,7 +269,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="ユーザー管理" id="tsp-9q-pxH"/>
                     <connections>
-                        <segue destination="uIB-Wl-KZS" kind="show" id="9Ms-Fe-rpM"/>
+                        <segue destination="uIB-Wl-KZS" kind="show" identifier="nextSegue" id="9Ms-Fe-rpM"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LwP-C9-qNd" userLabel="First Responder" sceneMemberID="firstResponder"/>
