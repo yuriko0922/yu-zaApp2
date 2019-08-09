@@ -9,6 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //名前が代入されるラベル
+    @IBOutlet weak var nameLabel: UILabel!
+    
+    //趣味が代入されるラベル
+    @IBOutlet weak var syumiLabel: UILabel!
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
