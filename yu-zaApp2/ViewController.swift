@@ -30,6 +30,7 @@ class ViewController: UIViewController {
         // ラベルに遷移元から受け取った情報を表示
         nameLabel.text = receiveName
         syumiLabel.text = receiveSyumi
+        
     }
     
 
