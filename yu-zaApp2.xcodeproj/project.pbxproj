@@ -12,6 +12,7 @@
 		BEDCAA4322FD440D00024680 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEDCAA4122FD440D00024680 /* Main.storyboard */; };
 		BEDCAA4522FD441000024680 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDCAA4422FD441000024680 /* Assets.xcassets */; };
 		BEDCAA4822FD441000024680 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEDCAA4622FD441000024680 /* LaunchScreen.storyboard */; };
+		BEDCAA5022FD4E3900024680 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDCAA4F22FD4E3900024680 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BEDCAA4422FD441000024680 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEDCAA4722FD441000024680 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEDCAA4922FD441000024680 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEDCAA4F22FD4E3900024680 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BEDCAA3D22FD440D00024680 /* AppDelegate.swift */,
 				BEDCAA3F22FD440D00024680 /* ViewController.swift */,
 				BEDCAA4122FD440D00024680 /* Main.storyboard */,
+				BEDCAA4F22FD4E3900024680 /* TableViewController.swift */,
 				BEDCAA4422FD441000024680 /* Assets.xcassets */,
 				BEDCAA4622FD441000024680 /* LaunchScreen.storyboard */,
 				BEDCAA4922FD441000024680 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEDCAA4022FD440D00024680 /* ViewController.swift in Sources */,
+				BEDCAA5022FD4E3900024680 /* TableViewController.swift in Sources */,
 				BEDCAA3E22FD440D00024680 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
