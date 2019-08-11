@@ -26,7 +26,7 @@ class TableViewController: UITableViewController {
         "堀田　真",
         "田内　翔太郎",
         "福沢　貴一",
-        "平田奈那",
+        "平田　奈那",
         "吉澤　優衣"
     ]
     

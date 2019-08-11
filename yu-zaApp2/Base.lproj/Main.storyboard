@@ -276,10 +276,10 @@
             </objects>
             <point key="canvasLocation" x="-35" y="129"/>
         </scene>
-        <!--View Controller-->
+        <!--ユーザーデータ-->
         <scene sceneID="tJT-uW-Gf1">
             <objects>
-                <viewController id="uIB-Wl-KZS" customClass="ViewController" customModule="yu_zaApp2" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="ユーザーデータ" id="uIB-Wl-KZS" customClass="ViewController" customModule="yu_zaApp2" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xyx-di-bZK">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
